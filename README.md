@@ -1,6 +1,6 @@
 # DSA
 
-[All divisors of a number N]("https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1")
+[All divisors of a number N](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1)
 
 Instead of checking all the numbers. Take the square root of the given number N. Iterate till square root of N. 
 After sqrt(N), all the divisors will be repeated to save time complexity.
@@ -27,7 +27,7 @@ public static void print_divisors(int N) {
     }
 ```
 
-[Prime Numbers]("https://www.geeksforgeeks.org/problems/prime-number2314/1")
+[Prime Numbers](https://www.geeksforgeeks.org/problems/prime-number2314/1)
 
 Using the factorial method, we can find the prime numbers as the prime number has only 2 factors - 1 and number itself.
 We have to check if it has only 2 factors.
